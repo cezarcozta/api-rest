@@ -54,10 +54,10 @@ RESTful, is an application in REST pattern.
 
 #### Verbs HTTP
 
--GET: Recive data from a resource  
--POST: Send data or information to be processed by a resource  
--PUT: Update data from a resource  
--DELETE: Delete an resource  
+- GET: Recive data from a resource  
+- POST: Send data or information to be processed by a resource  
+- PUT: Update data from a resource  
+- DELETE: Delete an resource  
 
 #### Responses Status  
 
