@@ -38,11 +38,11 @@ RESTful, is an application in REST pattern.
 
 - Client / Server: Segregation between client and stored data  bringing portability  
 
-- Stateless: Each request must have all the information necessary for the server response. The server can not remeber anything from the last request.  
+- Stateless: Each request must have all the information necessary for the server response. The server can not remember anything from the last request.  
 
 - Cacheable: The response for the request, must be explicity if the client can or can not cache the request.  
 
-- Layered System: The Client access an endpoint, the resource do not need to known the compĺexities it been taken to bring this response to the client request.  
+- Layered System: The Client access an endpoint, the resource do not need to known the complexities it's been taken to bring this response to the client request.  
 
 - Code on demand(Optional): Gives the possibilities that the application can run codes on the client-side(browser/smartphone).
 
