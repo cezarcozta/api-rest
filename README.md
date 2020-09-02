@@ -28,7 +28,7 @@ API is an acronym for Application Programming Interface, basically a set of rout
 
 - Rest delimits some obligations between those data transfer.
 
-- Resource wiil be an entity or an object.
+- Resource will be an entity or an object.
 
 ### RESTful  
 
