@@ -77,19 +77,21 @@ RESTful, is an application in REST pattern.
 - 5xx: Server Error  
   - 500: Internal Server Error  
 
-#### Run
+#### Getting Started
 
-- Clone this Repository  
-  - `git clone https://github.com/cezarcozta/api-rest.git`  
+```sh
+# Clone this Repository  
+$ git clone https://github.com/cezarcozta/api-rest.git
 
-- Access project folder  
-  - `cd api-rest`  
+# Access project folder  
+$ cd api-rest
 
-- Install Dependencies  
-  - `yarn`  
+# Install Dependencies  
+$ yarn  
 
-- Run
-  - `yarn dev`
+# Run
+$ yarn dev
+```
 
 - Endpoints
 
