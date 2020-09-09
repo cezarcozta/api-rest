@@ -46,20 +46,20 @@ RESTful, is an application in REST pattern.
 
 - Code on demand(Optional): Gives the possibilities that the application can run codes on the client-side(browser/smartphone).
 
-#### Best Pratices  
+### Best Pratices  
 
 - Uses differents HTTP verbs for different actions.  
 - Choose a pattern between singular and plural for endpoints  
 - Do not type a slash at the end of the endpoint  
 
-#### Verbs HTTP
+### Verbs HTTP
 
 - GET: Recive data from a resource  
 - POST: Send data or information to be processed by a resource  
 - PUT: Update data from a resource  
 - DELETE: Delete an resource  
 
-#### Responses Status  
+### Responses Status  
 
 - 1xx: Information  
 
@@ -77,7 +77,7 @@ RESTful, is an application in REST pattern.
 - 5xx: Server Error  
   - 500: Internal Server Error  
 
-#### Getting Started
+#### Getting Started  
 
 ```sh
 # Clone this Repository  
@@ -93,7 +93,7 @@ $ yarn
 $ yarn dev
 ```
 
-- Endpoints
+#### Endpoints  
 
 ```sh
 GET    : http://localhost:3000/users
